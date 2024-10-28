@@ -1,5 +1,5 @@
-👋 Hi, I’m Minnie (she/her) <@minnie-kitt>
-I'm a dedicated and enthusiastic Ph.D. Candidate in Epidemiology.
+- 👋 Hi, I’m Minnie (she/her)
+- I'm a dedicated and enthusiastic Ph.D. Candidate in Epidemiology.
 - I’m interested in studying determinants of health and disease in animals and humans.
 - I’m currently finishing up my Ph.D. (writing my thesis)
 
