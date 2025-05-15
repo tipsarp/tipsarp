@@ -1,7 +1,7 @@
-👋 Hi, I’m Minnie (she/her)
-- I'm a dedicated and enthusiastic Ph.D. Candidate in Epidemiology.
-- I’m interested in studying determinants of health and disease in animals and humans.
-- I’m currently finishing up my Ph.D. (writing my thesis) on the positive psychological (mental) health of veterinarians in Canada.
+ 🌷 Hi, My name is Minnie (she/her)
+- I'm an aspiring veterinary epidemiologist with international experience 🌐
+- I'm a dog person 🐕 with a four-legged fur-baby called "Pumbaa"
+- I love to nerd out about epidemiological and biostatistical methods such as Regression Models, Network Analysis, Latent Profile Analysis, and much more! 🤓
 
 <!---
 minnie-kitt/minnie-kitt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
