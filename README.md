@@ -1,7 +1,6 @@
  🌷 Hi, My name is Minnie (she/her)
-- I'm an aspiring veterinary epidemiologist with international experience 🌐
-- I'm a dog person 🐕 with a four-legged fur-baby called "Pumbaa"
-- I love to nerd out about epidemiological and biostatistical methods such as Regression Models, Network Analysis, Latent Profile Analysis, and much more! 🤓
+- I do research related to all things epidemiology and more!
+- I have a four-legged fur-baby called "Pumbaa" 🐕 who is a corgi.
 
 <!---
 minnie-kitt/minnie-kitt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
